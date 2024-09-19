@@ -7,6 +7,5 @@ Este projeto é um **Gerador de QR Code** simples e eficiente, desenvolvido com 
 ## Funcionalidades
 
 ### 1. Gerar QR Code a partir de texto ou URL.
-### 2. Baixar o QR Code gerado como uma imagem.
-### 3. Design responsivo para uma experiência de usuário fluida em diferentes dispositivos.
-### 4. Interface amigável e minimalista.
+### 2. Design responsivo para uma experiência de usuário fluida em diferentes dispositivos.
+### 3. Interface amigável e minimalista.
